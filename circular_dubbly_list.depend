@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638504370 source:d:\c\circular_dubbly_list\main.c
+	<stdio.h>
+	<stdlib.h>
+
